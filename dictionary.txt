@@ -1,0 +1,129 @@
+Aatrox, Top, Jungle
+Ahri, Mid
+Akali, Top, Mid
+Alistar, Support, Top
+Amumu, Jungle
+Anivia, Mid
+Annie, Mid, Support
+Ashe, Bot
+Azir, Mid
+Bard, Support
+Blitzcrank, Support
+Brand, Mid, Support
+Braum, Support
+Caitlyn, Bot
+Cassiopeia, Mid, Top
+Cho'Gath, Top, Mid, Jungle
+Corki, Bot, Mid
+Darius, Top
+Diana, Mid, Jungle
+Dr. Mundo, Top, Jungle
+Draven, Bot
+Ekko, Mid, Jungle, Top
+Elise, Jungle
+Evelynn, Jungle
+Ezreal, Bot, Mid
+Fiddlesticks, Jungle
+Fiora, Top
+Fizz, Mid, Top
+Galio, Mid
+Gangplank, Top, Mid
+Garen, Top
+Gnar, Top
+Gragas, Jungle, Mid
+Graves, Bot, Jungle, Top
+Hecarim, Top, Jungle
+Heimerdinger, Top, Mid
+Illaoi, Top
+Irelia, Top
+Janna, Support
+Jarvan IV, Jungle, Top, Mid
+Jax, Top, Jungle
+Jayce, Top, Mid
+Jhin, Bot, Mid
+Jinx, Bot
+Kalista, Bot
+Karma, Support, Mid
+Karthus, Mid
+Kassadin, Mid, Top
+Katarina, Mid, Top
+Kayle, Top, Mid, Jungle
+Kennen, Top, Mid, Support
+Kha'Zix, Jungle
+Kindred, Jungle
+Kog'Maw, Bot
+LeBlanc, Mid
+Lee Sin, Jungle, Top
+Leona, Support
+Lissandra, Top, Mid
+Lucian, Bot
+Lulu, Top, Mid, Support
+Lux, Mid, Support
+Malphite, Top, Jungle
+Malzahar, Mid, Top
+Maokai, Top
+Master Yi, Jungle
+Miss Fortune, Bot
+Mordekaiser, Bot, Mid
+Morgana, Support, Mid
+Nami, Support
+Nasus, Top
+Nautilus, Top, Jungle, Support
+Nidalee, Jungle, Mid
+Nocturne, Jungle
+Nunu, Jungle
+Olaf, Top, Jungle
+Orianna, Mid
+Pantheon, Top, Jungle
+Poppy, Top, Jungle
+Quinn, Top, Bot
+Rammus, Jungle
+Rek'Sai, Jungle
+Renekton, Top
+Rengar, Jungle
+Riven, Top
+Rumble, Top
+Ryze, Top, Mid
+Sejuani, Jungle
+Shaco, Jungle
+Shen, Top, Support
+Shyvana, Jungle
+Singed, Top
+Sion, Top, Jungle
+Sivir, Bot
+Skarner, Jungle
+Sona, Support
+Soraka, Support
+Swain, Mid, Top
+Syndra, Mid
+Tahm Kench, Support, Top
+Talon, Mid
+Taric, Support
+Teemo, Top, Jungle
+Thresh, Support
+Tristana, Bot
+Trundle, Top, Support, Jungle
+Tryndamere, Top
+Twisted Fate, Mid
+Twitch, Bot
+Udyr, Jungle, Top
+Urgot, Mid, Top, Bot
+Varus, Mid, Bot
+Vayne, Bot
+Veigar, Mid
+Vel'Koz, Mid, Support
+Vi, Jungle
+Viktor, Mid
+Vladimir, Top, Mid
+Volibear, Top, Jungle
+Warwick, Jungle
+Wukong, Top, Jungle
+Xerath, Mid
+Xin Zhao, Jungle
+Yasuo, Mid, Top
+Yorick, Top
+Zac, Jungle
+Zed, Mid
+Ziggs, Mid
+Zilean, Support, Mid
+Zyra, Support, Mid
